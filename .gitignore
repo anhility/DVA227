@@ -1,0 +1,12 @@
+# .gitignore file
+
+# LaTeX files to ignore:
+**.aux
+**.bbl
+**.bcf
+**.blg
+**.log
+**.run.xml
+**.synctex.gz
+# Ignoring pdf's in src folder
+Rapporter/src/**/*.pdf
