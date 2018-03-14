@@ -8,6 +8,6 @@
 **.log
 **.run.xml
 **.synctex.gz
-# Ignoring pdf's in src folder
+# Ignoring pdf's outside pdf folder
 Rapporter/src/**/*.pdf
 Mallar/**/*.pdf
