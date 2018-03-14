@@ -14,6 +14,6 @@ Isak Söderström - [ism16001@student.mdh.se](mailto:ism16001@student.mdh.se)
 3. git checkout -b \<branchname\>
 4. work work work, commits and push
 5. git checkout master
-6. git marge \<branchname\>
+6. git merge \<branchname\>
 7. git push origin -d \<branchname\>
 8. start over if needed
