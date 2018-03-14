@@ -10,3 +10,4 @@
 **.synctex.gz
 # Ignoring pdf's in src folder
 Rapporter/src/**/*.pdf
+Mallar/**/*.pdf
