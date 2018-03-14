@@ -1,0 +1,4 @@
+kl 9-x
+
+Börjat på gruppkontraktet
+Lärt mig mer om hur github och LaTeX funkar.
