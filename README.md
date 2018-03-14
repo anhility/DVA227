@@ -10,10 +10,9 @@ Isak Söderström - [ism16001@student.mdh.se](mailto:ism16001@student.mdh.se)
 ## Git workflow
 
 1. cd \<workdir\>
-2. git pull
-3. git checkout -b \<branchname\>
+2. git checkout \<your_branch_name\>
+3. git pull origin master
 4. work work work, commits and push
 5. git checkout master
-6. git merge \<branchname\>
-7. git push origin -d \<branchname\>
-8. start over if needed
+6. git merge \<your_branch_name\>
+7. start over if needed
