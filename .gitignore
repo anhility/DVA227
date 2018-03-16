@@ -9,5 +9,5 @@
 **.run.xml
 **.synctex.gz
 # Ignoring pdf's outside pdf folder
-Dokument/src/**/*.pdf
-Dokument/Mallar/**/*.pdf
+**/*.pdf
+!Dokument/Rapporter/**/*.pdf
