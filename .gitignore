@@ -1,6 +1,6 @@
 # .gitignore file
 
-# LaTeX files to ignore:
+# LaTeX filer att ignorera:
 **.aux
 **.bbl
 **.bcf
@@ -8,6 +8,7 @@
 **.log
 **.run.xml
 **.synctex.gz
-# Ignoring pdf's outside pdf folder
-**/*.pdf
+
+# Ignorerar pdf filer utanför Dokument/Rapporter mappen:
+**.pdf
 !Dokument/Rapporter/**/*.pdf
