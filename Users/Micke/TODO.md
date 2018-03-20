@@ -1,24 +1,33 @@
 # TODO
 
 ## Vecka 12
-- Förstudie  
-  - Eventuell delegering av arbetsuppgifter till projektmedlemmar  
-  - Skapa issues för varje punkt som behöver göras på github  
-- Planering
-  - Skapa issues för varje punkt som behöver göras på github  
+- Github
+  - Förstudie
+    - Skapa issues för varje punkt som behöver göras på github
+  - Planering
+    - Skapa issues för varje punkt som behöver göras på github
+- Förstudie
+  - Starta förstudien
+  - Delegering av arbetsuppgifter till projektmedlemmar  
+  - Avsluta förstudien
 - Skriva klart gruppkontrakt  
 - Kontakta Johnny  
   - ~~Meddela att projektet har börjat~~  
   - Skype, email etc
 - Gruppmöte
   - Bestämma tid och plats
+  - Skriva mötesagenda innan mötet
 - Projektledarmöte
+  - Skriva och skicka in mötesagenda innan mötet  
   - 22/03-18 kl 10:30, U2-009  
+  - Renskriva mötesprotokoll
 - Grupparbeten
  - 22/03-18 kl 09:00 - 16:00, Netcenter
 - Inlämning av progressrapport senast kl 24:00 på söndag
 
 ## Vecka 13
+- Planering
+ - Starta planeringsfasen
 - Gruppmöte
   - Bestämma tid och plats
 - Projektledarmöte
