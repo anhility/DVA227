@@ -7,8 +7,10 @@ Vilhelm Beijer - [vbr16001@student.mdh.se](mailto:vbr16001@student.mdh.se)
 Isak Söderström - [ism16001@student.mdh.se](mailto:ism16001@student.mdh.se)
 
 ---
-## Nuvarande projektledare
-Mikael Andersson
+## Projektledare 
+- Vecka 12-14 - Mikael
+- Vecka 15-17 - Isak
+- Vecka 18-20 - Vilhelm
 
 ---
 ## Nästa gruppmöte
