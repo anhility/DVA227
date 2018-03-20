@@ -11,5 +11,5 @@
 
 # Ignorerar pdf filer utanför Dokument/Rapporter mappen:
 **.pdf
-!Dokument/Rapporter/**/*.pdf
+!Dokumentation/Arkiv/**/*.pdf
 !Bolaget/**/*.pdf
