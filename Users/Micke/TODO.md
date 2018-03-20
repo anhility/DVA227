@@ -8,7 +8,7 @@
   - Skapa issues för varje punkt som behöver göras på github  
 - Skriva klart gruppkontrakt  
 - Kontakta Johnny  
-  - Meddela att projektet har börjat  
+  - ~~Meddela att projektet har börjat~~  
   - Skype, email etc
 - Gruppmöte
   - Bestämma tid och plats
@@ -27,11 +27,11 @@
  - Bestämma tid och plats
 - Inlämning av progressrapport senast kl 24:00 på söndag
 ## Vecka 14
-- Inlämning av progressrapport senast kl 24:00 på söndag
 - Gruppmöte
   - Bestämma tid och plats
 - Projektledarmöte
   - Bestämma tid och plats
 - Grupparbeten
  - Bestämma tid och plats
+- Inlämning av progressrapport senast kl 24:00 på söndag
 - Överlämning av projektledarroll till Isak  
