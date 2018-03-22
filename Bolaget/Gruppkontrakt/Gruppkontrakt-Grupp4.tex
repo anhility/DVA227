@@ -27,9 +27,9 @@
 % They will automatically be hidden on the front page.
 
 \def\tCourseName{DVA227 - Projekt i Nätverksteknik}
-\def\tTitleOne{Gruppkontrakt}
-\def\tTitleTwo{}
-\def\tTitleThree{}   % <-- Set to {} to hide
+\def\tTitleOne{Projekt Bolaget}
+\def\tTitleTwo{Gruppkontrakt}
+\def\tTitleThree{Ver 1 Rev 1}   % <-- Set to {} to hide
 
 %% Author info
 \def\tAuthorTitle{Grupp 4}     % <-- Set to {} to hide
@@ -56,7 +56,13 @@
 \def\tTeacherTwoLocation{\tSchoolName, \tSchoolLocation}
 
 %% Misc
-\def\tDate{\today}      % Use \today or set a date manually
+\def\tDateDocMade{19 mars 2018}     % Use \today or set a date manually
+
+\def\tDates{\begin{tabular}{rl}
+        Skapad: & \tDateDocMade \\
+        Uppdaterad: & \today\,\,\currenttime
+    \end{tabular}
+}
 
 %=============== Document Headers
 \def\mLHeader{\tSchoolName}
@@ -77,9 +83,11 @@
 \begin{document}
 
     % Title
+    \hypersetup{pageanchor=false}
     \begin{titlepage}
         \input{static/title}
     \end{titlepage}
+    \hypersetup{pageanchor=true}
 
     % Page style
     \pagestyle{fancy}
