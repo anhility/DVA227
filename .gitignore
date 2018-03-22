@@ -1,6 +1,6 @@
 # .gitignore file
 
-# LaTeX filer att ignorera:
+# Misc LaTeX filer att ignorera:
 **.aux
 **.bbl
 **.bcf
@@ -9,7 +9,6 @@
 **.run.xml
 **.synctex.gz
 
-# Ignorerar pdf filer utanför Dokument/Rapporter mappen:
-**.pdf
+# Filtrering av pdf-filer utanför Users, Bolaget eller Dokumentation/Arkiv:
+Dokumentation/**/*.pdf
 !Dokumentation/Arkiv/**/*.pdf
-!Bolaget/**/*.pdf

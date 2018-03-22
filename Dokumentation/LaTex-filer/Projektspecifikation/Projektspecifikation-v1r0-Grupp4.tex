@@ -56,7 +56,13 @@
 \def\tTeacherTwoLocation{\tSchoolName, \tSchoolLocation}
 
 %% Misc
-\def\tDate{\today}      % Use \today or set a date manually
+\def\tDateDocMade{20 mars 2018}     % Use \today or set a date manually
+
+\def\tDates{\begin{tabular}{rl}
+        Skapad: & \tDateDocMade \\
+        Uppdaterad: & \today\,\,\currenttime
+    \end{tabular}
+}
 
 %=============== Document Headers
 \def\mLHeader{\tSchoolName}
@@ -77,9 +83,11 @@
 \begin{document}
 
     % Title
+    \hypersetup{pageanchor=false}
     \begin{titlepage}
         \input{static/title}
     \end{titlepage}
+    \hypersetup{pageanchor=true}
 
     % Page style
     \pagestyle{fancy}
