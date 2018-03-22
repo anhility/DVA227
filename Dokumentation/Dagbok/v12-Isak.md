@@ -21,3 +21,4 @@ Vad har gjorts:
 Gjort klart gruppkontraktet
 WBS
 MoSCoW
+
