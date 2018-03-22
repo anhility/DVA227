@@ -18,7 +18,7 @@ Gjort klart kravspecifikationen
 **Arbetstid:**	6 timmar   
 
 Vad har gjorts:  
-Gjort klart gruppkontraktet
-WBS
-MoSCoW
+Gjort klart gruppkontraktet  
+WBS  
+MoSCoW  
 
