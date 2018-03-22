@@ -1,0 +1,148 @@
+% Title
+%\title{}
+
+% Document type
+\documentclass[11pt, titlepage, a4paper]{article}
+
+% Preamble
+\input{static/preamble.sty}
+\bibliography{static/biblio}
+
+%============================== Custom macros for document
+
+%=============== Front page info
+%% Logo info
+\def\tLogoLocation{static/MDHlogga.png}
+\def\tLogoWidth{15mm}
+
+%% School info
+\def\tSchoolName{Mälardalen University}
+\def\tAcademyName{School of Innovation, Design and Engineering}     % IDT
+%\def\tAcademyName{School of Education, Culture and Communication}   % UKK
+\def\tSchoolLocation{Västerås, Sweden}
+
+%% Course info
+% Leave the fields for titles, authors and teachers blank if you don't need them.
+% e.g. \tTitleThree{}
+% They will automatically be hidden on the front page.
+
+\def\tCourseName{DVA227 - Projekt i Nätverksteknik}
+\def\tTitleOne{Projekt Bolaget}
+\def\tTitleTwo{Mötesprotokoll}
+
+\def\tTitleThree{Gruppmöte - 22/3-18}
+%\def\tTitleThree{Projektledarmöte}
+
+%% Author info
+\def\tAuthorTitle{Grupp 4}     % <-- Set to {} to hide
+
+\def\tAuthorOneName{Mikael Andersson \textit{- projektledare}}       % <-- Set to {} to hide
+\def\tAuthorOneEmail{man16057@student.mdh.se}
+%======
+\def\tAuthorTwoName{Vilhelm Beijer}       % <-- Set to {} to hide
+\def\tAuthorTwoEmail{vbr16001@student.mdh.se}
+%======
+\def\tAuthorThreeName{Isak Söderström}      % <-- Set to {} to hide
+\def\tAuthorThreeEmail{ism16001@student.mdh.se}
+%======
+\def\tAuthorFourName{}    % <-- Set to {} to hide
+\def\tAuthorFourEmail{}
+
+%% Teacher info
+\def\tTeacherOneTitleAndName{Kursansvarig, Lärare \& Examinator: Joakim Rydén}
+\def\tTeacherOneEmail{joakim.ryden@mdh.se}
+\def\tTeacherOneLocation{\tSchoolName, \tSchoolLocation}
+%======
+\def\tTeacherTwoTitleAndName{Lärare: Sara Lundahl}  % <-- Set to {} to hide
+\def\tTeacherTwoEmail{sara.lundahl@mdh.se}
+\def\tTeacherTwoLocation{\tSchoolName, \tSchoolLocation}
+
+%% Misc
+\def\tDateDocMade{22 mars 2018}     % Use \today or set a date manually
+
+\def\tDates{\begin{tabular}{rl}
+        Skapad: & \tDateDocMade \\
+        Uppdaterad: & \today\,\,\currenttime
+    \end{tabular}
+}
+
+%=============== Document Headers
+\def\mLHeader{\tSchoolName}
+\def\mRHeader{\tTitleTwo\ - \tTitleThree}
+%============================== End of macros
+
+% Page style
+\pagestyle{fancy}
+\marginparsep = 10pt
+\renewcommand*{\marginfont}{\footnotesize}
+
+% Table of Contents
+\renewcommand\contentsname{Table of Contents}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\newcommand{\circR}{\textsuperscript{\textregistered}}
+
+% Document begins
+\begin{document}
+
+    % Title
+    \hypersetup{pageanchor=false}
+    \begin{titlepage}
+        \input{static/title}
+    \end{titlepage}
+    \hypersetup{pageanchor=true}
+
+    % Page style
+    \pagestyle{fancy}
+    \fancyhead[L]{\mLHeader}
+    \fancyhead[R]{\mRHeader}
+    \setlength{\headheight}{14pt}
+    \fancyfoot[L]{}
+    \fancyfoot[R]{}
+    \renewcommand{\headrulewidth}{0.4pt}
+    \renewcommand{\footrulewidth}{0.4pt}
+
+    % Reset of counters after each section
+    \counterwithin{figure}{section}
+    \counterwithin{table}{section}
+    \counterwithin{lstlisting}{section}
+
+%========================== Table of contents =========================
+    \pagenumbering{Roman}
+    \hypersetup{linkcolor=black}
+
+    % Table of contents
+    %\tableofcontents        % <-- Comment out if not needed
+    %\newpage
+
+    % List of figures
+    %\listoffigures          % <-- Comment out if not needed
+
+    % List of tables
+    %\listoftables           % <-- Comment out if not needed
+
+    % List of lists
+    %\lstlistoflistings      % <-- Comment out if not needed
+
+% =========================== Actual Content ==========================
+    \newpage
+    \pagenumbering{arabic}
+% ========== Add your texts here
+
+    \input{text/protokoll}
+
+% ============================= References ============================
+% Comment out these lines if you don't need a list of references.
+    %\clearpage
+    %\pagenumbering{roman}
+    %\printbibliography[heading=bibintoc]
+
+% ============================= Appendices ============================
+% Comment out these lines if you don't need a any appendices
+    %\clearpage
+    %\begin{appendices}
+       %\input{appendix/bilaga1}
+       %\input{appendix/bilaga2}
+    %\end{appendices}
+
+% ============================ Document End ===========================
+\end{document}
