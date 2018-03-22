@@ -1,0 +1,52 @@
+Must:
+	Nätverkstjänster
+		Välja NS
+	Säkerhet
+		Logg
+		Dot1x
+		Protokoll
+		Kryptering
+	Design
+		IPAM
+		Routing & Switching
+		Standardisering
+	Mässa
+		Monter
+		Affisch
+	Rapport
+
+Could:
+	Säkerhet
+		Applikationskontroll
+		Admin Access
+	Hårdvara
+		Switchar
+		Routrar
+		PoE
+		Accesspunkter
+		Layer 3
+		Brandvägg
+		Rackskåp
+	Mjukvara
+		Versioner
+		Standarder
+	Design
+		Redundans
+	Mässa
+		Merch
+
+Should:
+	Säkerhet
+		Fysisk
+	Ekonomi
+		Kit-Listor
+		Tidsplan
+		Konsultplan
+		Licenser
+	Implementering
+		Installation
+		Frakt & logistik
+		Stegplan
+
+Wont:
+	
