@@ -11,18 +11,19 @@
   - Delegering av arbetsuppgifter till projektmedlemmar  
   - Avsluta förstudien
 - Skriva klart gruppkontrakt  
-- Kontakta Johnny  
+- ~~Kontakta Johnny~~
   - ~~Meddela att projektet har börjat~~  
-  - Skype, email etc
+  - ~~Skype, email etc~~
 - Gruppmöte
   - Bestämma tid och plats
   - Skriva mötesagenda innan mötet
 - Projektledarmöte
-  - Skriva och skicka in mötesagenda innan mötet  
+  - ~~Skriva och skicka in mötesagenda innan mötet~~  
   - 22/03-18 kl 10:30, U2-009  
   - Renskriva mötesprotokoll
 - Grupparbeten
  - 22/03-18 kl 09:00 - 16:00, Netcenter
+- Skriva dagbok
 - Inlämning av progressrapport senast kl 24:00 på söndag
 
 ## Vecka 13
@@ -34,7 +35,9 @@
   - Bestämma tid och plats
 - Grupparbeten
  - Bestämma tid och plats
+- Skriva dagbok
 - Inlämning av progressrapport senast kl 24:00 på söndag
+
 ## Vecka 14
 - Gruppmöte
   - Bestämma tid och plats
@@ -42,5 +45,6 @@
   - Bestämma tid och plats
 - Grupparbeten
  - Bestämma tid och plats
+- Skriva dagbok
 - Inlämning av progressrapport senast kl 24:00 på söndag
 - Överlämning av projektledarroll till Isak  
