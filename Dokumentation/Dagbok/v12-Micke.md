@@ -44,3 +44,18 @@ Vad har gjorts:
   * Kopior utskrivna och häftade.
 * Uppdatering av TeX-filer för bättre hantering av skapelsedatum och ändringssdatum.
 * Första utkast för dagbok v12 skriven.
+
+---
+## Tillfälle4 
+**Datum:**	25/3-18  
+**Typ:** 	Eget arbete  
+**Start:**	23:00  
+**Slut:**	02:00  
+**Arbetstid:**	~3 timmar  
+
+Vad har gjorts:  
+* Renskrivning av gruppmötesprotokoll & arkivering
+* Uppdatering av projektets README
+* Skrivit och skickat progressrapport
+* Arkiverat skickade email
+* Generell städning av filer och mappar på samarbetsytan
