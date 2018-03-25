@@ -46,7 +46,21 @@ Vad har gjorts:
 * Första utkast för dagbok v12 skriven.
 
 ---
-## Tillfälle4 
+## Tillfälle 4 
+**Datum:**	22/3-18  
+**Typ:** 	Grupparbete  
+**Start:**	03:00  
+**Slut:**	15:00  
+**Arbetstid:**	~5 timmar  
+
+Vad har gjorts:  
+- Projektledarträff 1
+- WBS
+- MoSCoW
+- Gruppmöte
+
+---
+## Tillfälle 5 
 **Datum:**	25/3-18  
 **Typ:** 	Eget arbete  
 **Start:**	23:00  
@@ -56,6 +70,6 @@ Vad har gjorts:
 Vad har gjorts:  
 * Renskrivning av gruppmötesprotokoll & arkivering
 * Uppdatering av projektets README
-* Skrivit och skickat progressrapport
-* Arkiverat skickade email
+* Progressrapport skriven och inskickad
+* Arkivering av skickade email
 * Generell städning av filer och mappar på samarbetsytan
