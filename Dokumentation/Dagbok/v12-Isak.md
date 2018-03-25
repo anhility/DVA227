@@ -8,7 +8,7 @@
 **Arbetstid:**	2 timmar   
 
 Vad har gjorts:  
-Gjort klart kravspecifikationen
+- Gjort klart kravspecifikationen
 
 ## Tillfälle 2  
 **Datum:** 	22/3  
@@ -18,7 +18,7 @@ Gjort klart kravspecifikationen
 **Arbetstid:**	6 timmar   
 
 Vad har gjorts:  
-Gjort klart gruppkontraktet  
-WBS  
-MoSCoW  
+- Gjort klart gruppkontraktet  
+- WBS  
+- MoSCoW  
 

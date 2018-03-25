@@ -8,6 +8,6 @@
 **Arbetstid:**	4 timmar   
 
 Vad har gjorts:  
-Börjat på gruppkontraktet
+- Börjat på gruppkontraktet
 
 
