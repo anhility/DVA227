@@ -1,40 +1,57 @@
 # TODO
 
 ## Vecka 12
-- Github
-  - Förstudie
-    - Skapa issues för varje punkt som behöver göras på github
-  - Planering
-    - Skapa issues för varje punkt som behöver göras på github
-- Förstudie
-  - Starta förstudien
-  - Delegering av arbetsuppgifter till projektmedlemmar  
-  - Avsluta förstudien
+- ~~Github~~
+  - ~~Förstudie~~
+    - ~~Skapa issues för varje punkt som behöver göras på github~~
+  - ~~Planering~~
+    - ~~Skapa issues för varje punkt som behöver göras på github~~
+- ~~Förstudie~~
+  - ~~Starta förstudien~~
+  - ~~Delegering av arbetsuppgifter till projektmedlemmar~~
 - Skriva klart gruppkontrakt  
 - ~~Kontakta Johnny~~
   - ~~Meddela att projektet har börjat~~  
   - ~~Skype, email etc~~
-- Gruppmöte
-  - Bestämma tid och plats
-  - Skriva mötesagenda innan mötet
-- Projektledarmöte
+- ~~Gruppmöte~~
+  - ~~Bestämma tid och plats~~
+  - ~~Skriva mötesagenda innan mötet~~
+  - ~~22/3-18~~
+- ~~Projektledarmöte~~
   - ~~Skriva och skicka in mötesagenda innan mötet~~  
-  - 22/03-18 kl 10:30, U2-009  
-  - Renskriva mötesprotokoll
-- Grupparbeten
- - 22/03-18 kl 09:00 - 16:00, Netcenter
-- Skriva dagbok
+  - ~~22/03-18 kl 10:30, U2-009~~  
+  - ~~Renskriva mötesprotokoll~~
+- ~~Grupparbeten~~
+ - ~~22/03-18 kl 09:00 - 16:00, Netcenter~~
+- ~~Skriva dagbok~~
 - Inlämning av progressrapport senast kl 24:00 på söndag
 
 ## Vecka 13
+- Förstudie
+  - ~~WBS~~
+  - ~~MoSCoW~~
+  - Logisk nätplan
+  - QTR-triangel
+  - Avsluta förstudien
 - Planering
- - Starta planeringsfasen
+  - Starta planeringsfasen
+  - Detaljerad WBS & arbetspaket
+  - Kritiska linjen
+  - Riskhantering
+- Skriva klart Gruppkontrakt
+  - Alla signerat
+  - Inskickat
+- Planera projektstrukturen
+- Planera planeringsfasen
+- Uppdatera projektspeccen's bakgrund
 - Gruppmöte
-  - Bestämma tid och plats
-- Projektledarmöte
-  - Bestämma tid och plats
+  - Skriva mötesagenda innan mötet
+  - Tag med signerat gruppkontrakt
+  - 29/3-18 
+  - Renskriva mötesprotokoll
 - Grupparbeten
- - Bestämma tid och plats
+  - 26/3-18 09:00 - 15:00
+  - 29/3-18 09:00 - 12:00
 - Skriva dagbok
 - Inlämning av progressrapport senast kl 24:00 på söndag
 
