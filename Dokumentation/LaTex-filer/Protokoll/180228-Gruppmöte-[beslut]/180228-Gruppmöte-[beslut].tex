@@ -41,7 +41,7 @@
 \def\tAuthorTwoEmail{vbr16001@student.mdh.se}
 %======
 \def\tAuthorThreeName{Isak Söderström}      % <-- Set to {} to hide
-\def\tAuthorThreeEmail{ism16001@student.mdh.se}
+\def\tAuthorThreeEmail{ism16002@student.mdh.se}
 %======
 \def\tAuthorFourName{}    % <-- Set to {} to hide
 \def\tAuthorFourEmail{}
@@ -56,7 +56,14 @@
 \def\tTeacherTwoLocation{\tSchoolName, \tSchoolLocation}
 
 %% Misc
-\def\tDate{28 februari 2018}      % Use \today or set a date manually
+\def\tDateDocMade{28 februari 2018}     % Use \today or set a date manually
+
+\def\tDates{\begin{tabular}{rl}
+        Skapad:     & \tDateDocMade \\
+        Uppdaterad: & \today\,\,\currenttime
+    \end{tabular}
+}
+
 
 %=============== Document Headers
 \def\mLHeader{\tSchoolName}
@@ -77,9 +84,11 @@
 \begin{document}
 
     % Title
+    \hypersetup{pageanchor=false}
     \begin{titlepage}
         \input{static/title}
     \end{titlepage}
+    \hypersetup{pageanchor=true}
 
     % Page style
     \pagestyle{fancy}
