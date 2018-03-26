@@ -14,16 +14,23 @@ Isak Söderström - [ism16001@student.mdh.se](mailto:ism16001@student.mdh.se)
 
 ---
 ## Nästa gruppmöte
-TBD
+- 29/3-2018
+
 ## Tidigare gruppmöte
-18/02-2018
+- 22/9-2018
+- 18/2-2018
 
 ---
 ## Nästa projektledarmöte
-22/03-18 kl 10:30
+- 5/4-18
+
 ## Tidigare projektledarmöten
+- 22/3-18 kl 10:30
 
 ---
 ## Nästa grupparbete
-22/03/18 kl 09:00 - 16:00
+- 26/3-18 kl 09:00-15:00
+- 29/3-18 kl 09:00-12:00
+
 ## Tidigare grupparbeten
+- 22/3-18 kl 09:00-16:00
