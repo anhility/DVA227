@@ -1,11 +1,11 @@
 # Vecka 13 - Isak
 
 ## Tillfälle 1  
-**Datum:** 	26/3  
-**Typ:** 	Grupparbete    
+**Datum:** 	26/3-18  
+**Typ:** 	Grupparbete  
 **Start:**	10:00  
 **Slut:**	15:00  
-**Arbetstid:** 5 timmar   
+**Arbetstid:**  5 timmar  
 
 Vad har gjorts:  
 - Rättat till min mailaddress på några dokument där det stod fel mailaddress.
@@ -13,11 +13,11 @@ Vad har gjorts:
 - Arbetat med den Logiska Nätplanen
 
 ## Tillfälle 2  
-**Datum:** 	29/3  
-**Typ:** 	Grupparbete    
+**Datum:** 	29/3-18  
+**Typ:** 	Grupparbete  
 **Start:**	08:00  
 **Slut:**	12:00  
-**Arbetstid:**	4 timmar   
+**Arbetstid:**	4 timmar  
 
 Vad har gjorts:  
 - Deltagit i gruppmöte med lärare
