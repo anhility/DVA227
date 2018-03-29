@@ -30,19 +30,13 @@
 - Förstudie
   - ~~WBS~~
   - ~~MoSCoW~~
-  - Logisk nätplan
+  - ~~Logisk nätplan~~
   - ~~QTR-triangel~~
   - Avsluta förstudien
-- Planering
-  - Starta planeringsfasen
-  - Detaljerad WBS & arbetspaket
-  - Kritiska linjen
-  - Riskhantering
 - ~~Skriva klart Gruppkontrakt~~
   - ~~Alla signerat~~
   - ~~Inskickat~~
-- Planera projektstrukturen
-- Planera planeringsfasen
+- ~~Planera planeringsfasen~~
 - ~~Uppdatera projektspeccen's bakgrund~~
 - ~~Gruppmöte~~
   - ~~Skriva mötesagenda innan mötet~~
@@ -56,6 +50,11 @@
 - Inlämning av progressrapport senast kl 24:00 på söndag
 
 ## Vecka 14
+- Planering
+  - Starta planeringsfasen
+  - Detaljerad WBS & arbetspaket
+  - Kritiska linjen
+  - Riskhantering
 - Gruppmöte
   - Skriva utkast
   - 6/4-18
