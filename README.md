@@ -14,23 +14,26 @@ Isak Söderström - [ism16002@student.mdh.se](mailto:ism16002@student.mdh.se)
 
 ---
 ## Nästa gruppmöte
-- 29/3-2018
+- 6/4-18
 
 ## Tidigare gruppmöte
-- 22/9-2018
-- 18/2-2018
+- 18/2-18
+- 22/3-18
+- 29/3-18
 
 ---
 ## Nästa projektledarmöte
-- 5/4-18
+- 3/4-18
 
 ## Tidigare projektledarmöten
 - 22/3-18 kl 10:30
 
 ---
 ## Nästa grupparbete
-- 26/3-18 kl 09:00-15:00
-- 29/3-18 kl 09:00-12:00
+- 3/4-18 kl 13:00-17:00
+- 6/4-18 kl 09:00-16:00
 
 ## Tidigare grupparbeten
 - 22/3-18 kl 09:00-16:00
+- 26/3-18 kl 09:00-15:00
+- 29/3-18 kl 09:00-12:00
