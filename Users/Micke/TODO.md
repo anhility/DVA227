@@ -9,7 +9,7 @@
 - ~~Förstudie~~
   - ~~Starta förstudien~~
   - ~~Delegering av arbetsuppgifter till projektmedlemmar~~
-- Skriva klart gruppkontrakt  
+- ~~Skriva klart gruppkontrakt~~
 - ~~Kontakta Johnny~~
   - ~~Meddela att projektet har börjat~~  
   - ~~Skype, email etc~~
@@ -22,46 +22,51 @@
   - ~~22/03-18 kl 10:30, U2-009~~  
   - ~~Renskriva mötesprotokoll~~
 - ~~Grupparbeten~~
- - ~~22/03-18 kl 09:00 - 16:00, Netcenter~~
+ - ~~22/03-18 kl 09:00-16:00, Netcenter~~
 - ~~Skriva dagbok~~
-- Inlämning av progressrapport senast kl 24:00 på söndag
+- ~~Inlämning av progressrapport senast kl 24:00 på söndag~~
 
 ## Vecka 13
 - Förstudie
   - ~~WBS~~
   - ~~MoSCoW~~
-  - Logisk nätplan
-  - QTR-triangel
+  - ~~Logisk nätplan~~
+  - ~~QTR-triangel~~
   - Avsluta förstudien
+- ~~Skriva klart Gruppkontrakt~~
+  - ~~Alla signerat~~
+  - ~~Inskickat~~
+- ~~Planera planeringsfasen~~
+- ~~Uppdatera projektspeccen's bakgrund~~
+- ~~Gruppmöte~~
+  - ~~Skriva mötesagenda innan mötet~~
+  - ~~Tag med signerat gruppkontrakt~~
+  - ~~29/3-18~~ 
+  - ~~Renskriva mötesprotokoll~~
+- Grupparbeten
+  - ~~26/3-18 09:00-15:00~~
+  - 29/3-18 09:00-12:00
+- Skriva dagbok
+- Inlämning av progressrapport senast kl 24:00 på söndag
+
+## Vecka 14
 - Planering
   - Starta planeringsfasen
   - Detaljerad WBS & arbetspaket
   - Kritiska linjen
   - Riskhantering
-- Skriva klart Gruppkontrakt
-  - Alla signerat
-  - Inskickat
-- Planera projektstrukturen
-- Planera planeringsfasen
-- Uppdatera projektspeccen's bakgrund
 - Gruppmöte
-  - Skriva mötesagenda innan mötet
-  - Tag med signerat gruppkontrakt
-  - 29/3-18 
+  - Skriva utkast
+  - 6/4-18
+  - Renskriva mötesprotokoll
+- Projektledarmöte
+  - Skriva utkast
+  - Tag med uppdaterad projektspecc
+  - 3/4-18
   - Renskriva mötesprotokoll
 - Grupparbeten
-  - 26/3-18 09:00 - 15:00
-  - 29/3-18 09:00 - 12:00
-- Skriva dagbok
-- Inlämning av progressrapport senast kl 24:00 på söndag
-
-## Vecka 14
-- Gruppmöte
-  - Bestämma tid och plats
-- Projektledarmöte
-  - Bestämma tid och plats
-- Grupparbeten
- - Bestämma tid och plats
+  - 3/4-18 kl 13:00-17:00
+  - 6/4-18 kl 09:00-16:00
 - Skriva dagbok
 - Inlämning av progressrapport senast kl 24:00 på söndag
 - Överlämning av projektledarroll till Isak  
