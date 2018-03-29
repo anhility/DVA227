@@ -15,7 +15,7 @@ Must:
 		Affisch
 	Rapport
 
-Could:
+Should:
 	Säkerhet
 		Applikationskontroll
 		Admin Access
@@ -35,7 +35,7 @@ Could:
 	Mässa
 		Merch
 
-Should:
+Could:
 	Säkerhet
 		Fysisk
 	Ekonomi
