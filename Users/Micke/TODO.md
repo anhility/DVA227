@@ -61,13 +61,13 @@
   - Skriva utkast
   - 6/4-18
   - Renskriva mötesprotokoll
-- Projektledarmöte
-  - Skriva utkast
-  - Tag med uppdaterad projektspecc
-  - 3/4-18
-  - Renskriva mötesprotokoll
+- ~~Projektledarmöte~~
+  - ~~Skriva utkast~~
+  - ~~Tag med uppdaterad projektspecc~~
+  - ~~3/4-18~~
+  - ~~Renskriva mötesprotokoll~~
 - Grupparbeten
-  - 3/4-18 kl 13:00-17:00
+  - ~~3/4-18 kl 13:00-17:00~~
   - 6/4-18 kl 09:00-16:00
 - Skriva dagbok
 - Inlämning av progressrapport senast kl 24:00 på söndag
