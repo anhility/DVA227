@@ -43,13 +43,15 @@
   - ~~Tag med signerat gruppkontrakt~~
   - ~~29/3-18~~ 
   - ~~Renskriva mötesprotokoll~~
-- Grupparbeten
+- ~~Grupparbeten~~
   - ~~26/3-18 09:00-15:00~~
-  - 29/3-18 09:00-12:00
-- Skriva dagbok
-- Inlämning av progressrapport senast kl 24:00 på söndag
+  - ~~29/3-18 09:00-12:00~~
+- ~~Skriva dagbok~~
+- ~~Inlämning av progressrapport senast kl 24:00 på söndag~~
 
 ## Vecka 14
+- Förstudie
+  - Avsluta förstudien
 - Planering
   - Starta planeringsfasen
   - Detaljerad WBS & arbetspaket
