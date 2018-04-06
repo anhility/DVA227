@@ -447,7 +447,7 @@ av siter<y:LabelModel>
           <y:Geometry height="60.39999999999998" width="139.59999999999997" x="-120.77681147978248" y="209.05604677361865"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="106.720703125" x="16.43964843750001" y="20.84941406249999">3.1 Start av rapport<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="106.720703125" x="16.439648437499983" y="20.84941406249999">3.1 Start av rapport<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -465,6 +465,23 @@ av siter<y:LabelModel>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="100.052734375" x="19.773632812500068" y="20.84941406249999">3.2 Slutför rapport<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n27">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="123.69571759259253" width="237.25624999999997" x="1930.0518398748216" y="136.705490117788"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="40" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.00390625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="106.24609375" x="65.50507812499995" y="35.345905671296265">SLUT<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -636,7 +653,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e13" source="n21" target="n26">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -647,7 +663,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e14" source="n25" target="n26">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="5.852498343307161" ty="8.803430105683674">
@@ -661,7 +676,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e15" source="n0" target="n23">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -675,7 +689,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e16" source="n0" target="n25">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -689,7 +702,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e17" source="n23" target="n17">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -703,7 +715,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e18" source="n23" target="n22">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -714,7 +725,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e19" source="n25" target="n2">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -728,7 +738,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e20" source="n23" target="n2">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-64.64412307122191" ty="0.0">
@@ -742,7 +751,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e21" source="n25" target="n1">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -753,7 +761,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e22" source="n2" target="n3">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -767,7 +774,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e23" source="n18" target="n20">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -778,7 +784,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e24" source="n16" target="n20">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -792,7 +797,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e25" source="n19" target="n20">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-42.57799559099999" ty="-1.4567168256659784">
@@ -806,7 +810,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e26" source="n20" target="n21">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -817,7 +820,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e27" source="n26" target="n9">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -828,7 +830,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e28" source="n26" target="n8">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -842,7 +843,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e29" source="n26" target="n14">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -856,7 +856,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e30" source="n8" target="n15">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -870,7 +869,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e31" source="n14" target="n13">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -884,7 +882,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e32" source="n9" target="n15">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -898,7 +895,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e33" source="n13" target="n11">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -912,7 +908,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e34" source="n15" target="n11">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -926,7 +921,6 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e35" source="n11" target="n10">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -937,6 +931,16 @@ av siter<y:LabelModel>
       </data>
     </edge>
     <edge id="e36" source="n10" target="n12">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e37" source="n12" target="n27">
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
