@@ -38,10 +38,10 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="144.3765873015873" width="323.42578125" x="341.29296875" y="-144.3765873015873"/>
+              <y:Geometry height="144.3765873015873" width="320.091796875" x="341.29296875" y="-144.3765873015873"/>
               <y:Fill color="#F5F5F5" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="323.42578125" x="0.0" y="0.0">3 - Rapport</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="320.091796875" x="0.0" y="0.0">3 - Rapport</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
@@ -81,10 +81,10 @@
         <node id="n1::n1">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="114.037109375" x="525.005859375" y="-106.0"/>
+              <y:Geometry height="30.0" width="128.720703125" x="517.6640625" y="-106.0"/>
               <y:Fill color="#00FF00" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="104.037109375" x="5.0" y="5.6494140625">3.1 - Skriv Rapport<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="118.720703125" x="5.0" y="5.6494140625">3.1 - Start av Rapport<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -98,10 +98,10 @@
         <node id="n1::n2">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="135.388671875" x="514.330078125" y="-46.0"/>
+              <y:Geometry height="30.0" width="122.052734375" x="520.998046875" y="-46.0"/>
               <y:Fill color="#00FF00" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="125.388671875" x="5.0" y="5.6494140625">3.2 - Skicka in Rapport<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="112.052734375" x="5.0" y="5.6494140625">3.2 - Slutför Rapport<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -1133,7 +1133,7 @@ per site<y:LabelModel>
     <edge id="n1::e0" source="n1::n0" target="n1::n1">
       <data key="d11">
         <y:PolyLineEdge>
-          <y:Path sx="37.0146484375" sy="-7.5" tx="-57.0185546875" ty="-0.0"/>
+          <y:Path sx="37.0146484375" sy="-7.5" tx="-64.3603515625" ty="-0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
@@ -1143,7 +1143,7 @@ per site<y:LabelModel>
     <edge id="n1::e1" source="n1::n0" target="n1::n2">
       <data key="d11">
         <y:PolyLineEdge>
-          <y:Path sx="37.0146484375" sy="7.5" tx="-67.6943359375" ty="-0.0">
+          <y:Path sx="37.0146484375" sy="7.5" tx="-61.0263671875" ty="-0.0">
             <y:Point x="445.822265625" y="-76.0"/>
             <y:Point x="445.822265625" y="-31.0"/>
           </y:Path>
