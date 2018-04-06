@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Projekt Bolaget" company="" webLink="https://github.com/anhility/DVA227" view-date="2018-03-04" view-index="0" gantt-divider-location="637" resource-divider-location="300" version="2.8.6" locale="en_US">
+    <description/>
+    <view zooming-state="default:6" id="gantt-chart">
+        <field id="tpd3" name="Name" width="301" order="1"/>
+        <field id="tpd4" name="Begin date" width="101" order="2"/>
+        <field id="tpd5" name="End date" width="118" order="3"/>
+        <field id="tpc0" name="WBS ID" width="98" order="0"/>
+        <timeline><![CDATA[1]]></timeline>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Name" width="210" order="0"/>
+        <field id="1" name="Default role" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="true"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+            <taskproperty id="tpc0" name="WBS ID" type="custom" valuetype="text"/>
+        </taskproperties>
+        <task id="25" name="Projekt Startas" color="#8cb6ce" meeting="true" start="2018-03-13" duration="0" complete="0" thirdDate="2018-04-01" thirdDate-constraint="0" expand="true">
+            <depend id="1" type="2" difference="0" hardness="Strong"/>
+            <depend id="4" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="1" name="Start av Rapport" color="#8cb6ce" meeting="false" start="2018-03-13" duration="62" complete="0" thirdDate="2018-03-13" thirdDate-constraint="1" priority="4" expand="true">
+            <depend id="10" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="3.1"/>
+        </task>
+        <task id="4" name="Minimikrav" color="#8cb6ce" meeting="false" start="2018-04-06" duration="1" complete="0" thirdDate="2018-04-06" thirdDate-constraint="1" expand="true">
+            <depend id="38" type="2" difference="0" hardness="Strong"/>
+            <depend id="39" type="2" difference="0" hardness="Strong"/>
+            <depend id="40" type="2" difference="0" hardness="Strong"/>
+            <depend id="41" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="1.1.5"/>
+        </task>
+        <task id="38" name="Routing" color="#8cb6ce" meeting="false" start="2018-04-07" duration="1" complete="0" thirdDate="2018-03-04" thirdDate-constraint="0" expand="true">
+            <depend id="52" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="1.1.1"/>
+        </task>
+        <task id="39" name="Switching" color="#8cb6ce" meeting="false" start="2018-04-07" duration="1" complete="0" thirdDate="2018-03-04" thirdDate-constraint="0" expand="true">
+            <depend id="52" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="1.1.2"/>
+        </task>
+        <task id="40" name="Wireless" color="#8cb6ce" meeting="false" start="2018-04-07" duration="1" complete="0" thirdDate="2018-03-04" thirdDate-constraint="0" expand="true">
+            <depend id="52" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="1.1.3"/>
+        </task>
+        <task id="41" name="Brandvägg" color="#8cb6ce" meeting="false" start="2018-04-07" duration="1" complete="0" thirdDate="2018-03-14" thirdDate-constraint="0" expand="true">
+            <depend id="52" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="1.1.4"/>
+        </task>
+        <task id="52" name="Kit-Lista Klar" color="#8cb6ce" meeting="true" start="2018-04-08" duration="0" complete="0" thirdDate="2018-03-04" thirdDate-constraint="0" expand="true">
+            <depend id="55" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="55" name="Funktioner/Tjänster" color="#8cb6ce" meeting="false" start="2018-04-08" duration="1" complete="0" thirdDate="2018-03-04" thirdDate-constraint="0" expand="true">
+            <depend id="58" type="2" difference="0" hardness="Strong"/>
+            <depend id="59" type="2" difference="0" hardness="Strong"/>
+            <depend id="60" type="2" difference="0" hardness="Strong"/>
+            <depend id="61" type="2" difference="0" hardness="Strong"/>
+            <depend id="62" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="1.2.1"/>
+        </task>
+        <task id="58" name="VPN" color="#8cb6ce" meeting="false" start="2018-04-09" duration="1" complete="0" thirdDate="2018-03-04" thirdDate-constraint="0" expand="true">
+            <depend id="73" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="1.2.2.1"/>
+        </task>
+        <task id="59" name="Port-Sec" color="#8cb6ce" meeting="false" start="2018-04-09" duration="1" complete="0" thirdDate="2018-03-04" thirdDate-constraint="0" expand="true">
+            <depend id="73" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="1.2.2.2"/>
+        </task>
+        <task id="60" name="Admin Access" color="#8cb6ce" meeting="false" start="2018-04-09" duration="1" complete="0" thirdDate="2018-03-04" thirdDate-constraint="0" expand="true">
+            <depend id="73" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="1.2.2.3"/>
+        </task>
+        <task id="61" name="Loggning" color="#8cb6ce" meeting="false" start="2018-04-09" duration="1" complete="0" thirdDate="2018-03-04" thirdDate-constraint="0" expand="true">
+            <depend id="73" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="1.2.2.4"/>
+        </task>
+        <task id="62" name="App-Kontroll" color="#8cb6ce" meeting="false" start="2018-04-09" duration="1" complete="0" thirdDate="2018-03-04" thirdDate-constraint="0" expand="true">
+            <depend id="73" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="1.2.2.5"/>
+        </task>
+        <task id="73" name="Mjukvaru-Säkerhet Klar" color="#8cb6ce" meeting="true" start="2018-04-10" duration="0" complete="0" thirdDate="2018-03-17" thirdDate-constraint="0" expand="true">
+            <depend id="77" type="2" difference="0" hardness="Strong"/>
+            <depend id="78" type="2" difference="0" hardness="Strong"/>
+            <depend id="79" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="79" name="VLAN" color="#8cb6ce" meeting="false" start="2018-04-10" duration="1" complete="0" thirdDate="2018-03-04" thirdDate-constraint="0" expand="true">
+            <depend id="86" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="1.3.1"/>
+        </task>
+        <task id="77" name="Addressmängd per Site" color="#8cb6ce" meeting="false" start="2018-04-10" duration="1" complete="0" thirdDate="2018-03-04" thirdDate-constraint="0" expand="true">
+            <depend id="86" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="1.3.2"/>
+        </task>
+        <task id="78" name="Subnetting" color="#8cb6ce" meeting="false" start="2018-04-10" duration="1" complete="0" thirdDate="2018-03-04" thirdDate-constraint="0" expand="true">
+            <depend id="86" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="1.3.3"/>
+        </task>
+        <task id="86" name="IP-Plan Klar" color="#8cb6ce" meeting="true" start="2018-04-11" duration="0" complete="0" thirdDate="2018-03-18" thirdDate-constraint="0" expand="true">
+            <depend id="89" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="89" name="Mjukvarulayout Klar" color="#8cb6ce" meeting="true" start="2018-04-11" duration="0" complete="0" thirdDate="2018-03-18" thirdDate-constraint="0" expand="true">
+            <depend id="92" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="92" name="Säkerhet" color="#8cb6ce" meeting="false" start="2018-04-11" duration="1" complete="0" thirdDate="2018-03-20" thirdDate-constraint="0" expand="true">
+            <depend id="105" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="1.1.6"/>
+        </task>
+        <task id="105" name="Hårdvarulayout Klar" color="#8cb6ce" meeting="true" start="2018-04-12" duration="0" complete="0" thirdDate="2018-03-21" thirdDate-constraint="0" expand="true">
+            <depend id="93" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="93" name="Checklista för test av siter" color="#8cb6ce" meeting="false" start="2018-04-12" duration="1" complete="0" thirdDate="2018-03-21" thirdDate-constraint="0" expand="true">
+            <depend id="10" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="1.4"/>
+        </task>
+        <task id="10" name="Slutför Rapport" color="#8cb6ce" meeting="false" start="2018-05-14" duration="8" complete="0" thirdDate="2018-05-14" thirdDate-constraint="0" priority="4" expand="true">
+            <depend id="20" type="2" difference="0" hardness="Strong"/>
+            <depend id="127" type="1" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="3.2"/>
+        </task>
+        <task id="20" name="Inlämning av Rapport" color="#8cb6ce" meeting="true" start="2018-05-22" duration="0" complete="0" thirdDate="2018-04-01" thirdDate-constraint="0" priority="4" expand="true">
+            <depend id="101" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="101" name="Rapport Klar" color="#8cb6ce" meeting="true" start="2018-05-22" duration="0" complete="0" thirdDate="2018-05-22" thirdDate-constraint="0" expand="true">
+            <depend id="150" type="2" difference="0" hardness="Rubber"/>
+        </task>
+        <task id="127" name="Start för arbete för Mässan" color="#8cb6ce" meeting="true" start="2018-05-14" duration="0" complete="0" thirdDate="2018-05-22" thirdDate-constraint="0" expand="true">
+            <depend id="121" type="2" difference="0" hardness="Strong"/>
+            <depend id="122" type="2" difference="0" hardness="Strong"/>
+            <depend id="123" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="121" name="Design" color="#8cb6ce" meeting="false" start="2018-05-14" duration="1" complete="0" thirdDate="2018-05-22" thirdDate-constraint="0" expand="true">
+            <depend id="141" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="2.1.1"/>
+        </task>
+        <task id="122" name="Sponsring" color="#8cb6ce" meeting="false" start="2018-05-14" duration="1" complete="0" thirdDate="2018-03-04" thirdDate-constraint="0" expand="true">
+            <depend id="141" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="2.1.2"/>
+        </task>
+        <task id="123" name="NetSecure Merchendise" color="#8cb6ce" meeting="false" start="2018-05-14" duration="1" complete="0" thirdDate="2018-03-04" thirdDate-constraint="0" expand="true">
+            <depend id="141" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="2.2.2"/>
+        </task>
+        <task id="141" name="Booth Designad" color="#8cb6ce" meeting="true" start="2018-05-15" duration="0" complete="0" thirdDate="2018-03-04" thirdDate-constraint="0" expand="true">
+            <depend id="144" type="2" difference="0" hardness="Strong"/>
+            <depend id="145" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="144" name="Flyers" color="#8cb6ce" meeting="false" start="2018-05-15" duration="1" complete="0" thirdDate="2018-03-04" thirdDate-constraint="0" expand="true">
+            <depend id="150" type="2" difference="0" hardness="Rubber"/>
+            <customproperty taskproperty-id="tpc0" value="2.2.1"/>
+        </task>
+        <task id="145" name="Godis" color="#8cb6ce" meeting="false" start="2018-05-15" duration="1" complete="0" thirdDate="2018-03-04" thirdDate-constraint="0" expand="true">
+            <depend id="150" type="2" difference="0" hardness="Rubber"/>
+            <customproperty taskproperty-id="tpc0" value="2.2.3"/>
+        </task>
+        <task id="150" name="Allt klart för mässa" color="#8cb6ce" meeting="true" start="2018-05-29" duration="0" complete="0" thirdDate="2018-05-22" thirdDate-constraint="0" expand="true">
+            <depend id="153" type="2" difference="0" hardness="Rubber"/>
+        </task>
+        <task id="153" name="Frakt" color="#8cb6ce" meeting="false" start="2018-05-29" duration="1" complete="0" thirdDate="2018-05-29" thirdDate-constraint="0" expand="true">
+            <depend id="156" type="4" difference="0" hardness="Rubber"/>
+            <customproperty taskproperty-id="tpc0" value="2.1.3"/>
+        </task>
+        <task id="156" name="Montering" color="#8cb6ce" meeting="false" start="2018-05-29" duration="1" complete="0" thirdDate="2018-05-29" thirdDate-constraint="0" expand="true">
+            <depend id="28" type="1" difference="0" hardness="Rubber"/>
+            <customproperty taskproperty-id="tpc0" value="2.1.4"/>
+        </task>
+        <task id="28" name="Mässa" color="#8cb6ce" meeting="true" start="2018-05-30" duration="0" complete="0" thirdDate="2018-05-30" thirdDate-constraint="0" priority="2" expand="true">
+            <depend id="157" type="4" difference="0" hardness="Rubber"/>
+        </task>
+        <task id="157" name="Skrot" color="#8cb6ce" meeting="false" start="2018-05-29" duration="1" complete="0" thirdDate="2018-05-29" thirdDate-constraint="0" expand="true">
+            <depend id="24" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="2.1.5"/>
+        </task>
+        <task id="24" name="Projekt Avslutas" color="#8cb6ce" meeting="true" start="2018-05-30" duration="0" complete="0" thirdDate="2018-05-18" thirdDate-constraint="0" expand="true"/>
+    </tasks>
+    <resources>
+        <resource id="0" name="Mikael Andersson" function="Default:0" contacts="man16057@student.mdh.se" phone=""/>
+        <resource id="1" name="Isak Söderström" function="Default:0" contacts="ism16002@student.mdh.se" phone=""/>
+        <resource id="2" name="Vilhelm Beijer" function="Default:0" contacts="vbr16001@student.mdh.se" phone=""/>
+    </resources>
+    <allocations>
+        <allocation task-id="1" resource-id="0" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="1" resource-id="1" function="Default:0" responsible="false" load="100.0"/>
+        <allocation task-id="1" resource-id="2" function="Default:0" responsible="false" load="100.0"/>
+    </allocations>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>
