@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Projekt Bolaget" company="" webLink="https://github.com/anhility/DVA227" view-date="2018-04-21" view-index="0" gantt-divider-location="637" resource-divider-location="300" version="2.8.6" locale="en_US">
+<?xml version="1.0" encoding="UTF-8"?><project name="Projekt Bolaget" company="" webLink="https://github.com/anhility/DVA227" view-date="2018-04-30" view-index="1" gantt-divider-location="637" resource-divider-location="300" version="2.8.6" locale="en_US">
     <description/>
-    <view zooming-state="default:2" id="gantt-chart">
+    <view zooming-state="default:3" id="gantt-chart">
         <field id="tpc0" name="WBS ID" width="98" order="0"/>
         <field id="tpd3" name="Name" width="301" order="1"/>
         <field id="tpd4" name="Begin date" width="101" order="2"/>
@@ -8,8 +8,8 @@
         <timeline><![CDATA[1]]></timeline>
     </view>
     <view id="resource-table">
-        <field id="0" name="Name" width="206" order="0"/>
-        <field id="1" name="Default role" width="90" order="1"/>
+        <field id="0" name="Name" width="199" order="0"/>
+        <field id="1" name="Default role" width="82" order="1"/>
     </view>
     <!-- -->
     <calendars>
@@ -260,6 +260,48 @@
         <allocation task-id="157" resource-id="2" function="Default:0" responsible="false" load="6.25"/>
     </allocations>
     <vacations/>
-    <previous/>
+    <previous>
+        <previous-tasks name="Baseline">
+            <previous-task id="25" start="2018-03-13" duration="0" meeting="true" super="false"/>
+            <previous-task id="1" start="2018-04-13" duration="31" meeting="false" super="false"/>
+            <previous-task id="4" start="2018-04-13" duration="1" meeting="false" super="false"/>
+            <previous-task id="38" start="2018-04-16" duration="1" meeting="false" super="false"/>
+            <previous-task id="39" start="2018-04-20" duration="1" meeting="false" super="false"/>
+            <previous-task id="40" start="2018-04-23" duration="1" meeting="false" super="false"/>
+            <previous-task id="41" start="2018-04-23" duration="1" meeting="false" super="false"/>
+            <previous-task id="52" start="2018-04-24" duration="0" meeting="true" super="false"/>
+            <previous-task id="55" start="2018-04-24" duration="1" meeting="false" super="false"/>
+            <previous-task id="58" start="2018-04-27" duration="1" meeting="false" super="false"/>
+            <previous-task id="59" start="2018-04-27" duration="1" meeting="false" super="false"/>
+            <previous-task id="60" start="2018-04-27" duration="1" meeting="false" super="false"/>
+            <previous-task id="61" start="2018-04-27" duration="1" meeting="false" super="false"/>
+            <previous-task id="62" start="2018-04-27" duration="1" meeting="false" super="false"/>
+            <previous-task id="73" start="2018-04-28" duration="0" meeting="true" super="false"/>
+            <previous-task id="79" start="2018-04-30" duration="1" meeting="false" super="false"/>
+            <previous-task id="77" start="2018-04-30" duration="1" meeting="false" super="false"/>
+            <previous-task id="78" start="2018-05-04" duration="1" meeting="false" super="false"/>
+            <previous-task id="86" start="2018-05-05" duration="0" meeting="true" super="false"/>
+            <previous-task id="89" start="2018-05-05" duration="0" meeting="true" super="false"/>
+            <previous-task id="92" start="2018-05-07" duration="1" meeting="false" super="false"/>
+            <previous-task id="105" start="2018-05-08" duration="0" meeting="true" super="false"/>
+            <previous-task id="93" start="2018-05-07" duration="1" meeting="false" super="false"/>
+            <previous-task id="10" start="2018-05-14" duration="8" meeting="false" super="false"/>
+            <previous-task id="20" start="2018-05-22" duration="0" meeting="true" super="false"/>
+            <previous-task id="101" start="2018-05-22" duration="0" meeting="true" super="false"/>
+            <previous-task id="127" start="2018-05-14" duration="0" meeting="true" super="false"/>
+            <previous-task id="121" start="2018-05-14" duration="1" meeting="false" super="false"/>
+            <previous-task id="122" start="2018-05-14" duration="1" meeting="false" super="false"/>
+            <previous-task id="123" start="2018-05-14" duration="1" meeting="false" super="false"/>
+            <previous-task id="141" start="2018-05-15" duration="0" meeting="true" super="false"/>
+            <previous-task id="144" start="2018-05-18" duration="1" meeting="false" super="false"/>
+            <previous-task id="145" start="2018-05-18" duration="1" meeting="false" super="false"/>
+            <previous-task id="150" start="2018-05-29" duration="0" meeting="true" super="false"/>
+            <previous-task id="153" start="2018-05-29" duration="1" meeting="false" super="false"/>
+            <previous-task id="156" start="2018-05-29" duration="1" meeting="false" super="false"/>
+            <previous-task id="28" start="2018-05-29" duration="0" meeting="true" super="false"/>
+            <previous-task id="157" start="2018-05-29" duration="1" meeting="false" super="false"/>
+            <previous-task id="24" start="2018-05-30" duration="0" meeting="true" super="false"/>
+        </previous-tasks>
+    </previous>
     <roles roleset-name="Default"/>
 </project>

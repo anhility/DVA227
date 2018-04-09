@@ -12,3 +12,7 @@
 # Filtrering av pdf-filer utanför Users, Bolaget eller Dokumentation/Arkiv:
 Dokumentation/**/*.pdf
 !Dokumentation/Arkiv/**/*.pdf
+
+# Temp filer att ignorera
+**/.~*
+**/~$*
