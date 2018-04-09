@@ -1,0 +1,75 @@
+% ==================== Packages ====================
+% Character Encoding
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[swedish]{babel} % <-- Change language used here. Rememeber to clean all the aux files before building document.
+\usepackage{csquotes}
+\usepackage{microtype}
+
+% Bibliography & References Formatting
+\usepackage[style=ieee,backend=biber,dateabbrev=false]{biblatex}
+
+% Appendices Formatting
+\usepackage[titletoc,title]{appendix}
+%\renewcommand\appendixtocname{Bilagor}     % <-- If needed to manually change appendice names
+%\renewcommand\appendixpagename{Bilagor}    % <-- If needed to manually change appendice names
+
+% Text Formatting
+\usepackage{marginnote}
+\usepackage[absolute]{textpos}
+\sloppy
+
+% Document Formatting
+\usepackage{fancyhdr}
+\usepackage{enumerate}
+\usepackage{enumitem}
+\usepackage{listings}
+\renewcommand{\lstlistlistingname}{Listor}   % If needed to manually change list of lists's name in ToC.
+\renewcommand{\lstlistingname}{Lista}        % If needed to manually change list's name in document.
+\usepackage[margin=3cm]{geometry}
+\usepackage[section]{placeins}
+
+% List code style
+\lstset{
+    backgroundcolor=\color[rgb]{0.92,0.92,0.92},
+    basicstyle=\ttfamily,
+    columns=fullflexible,
+    keepspaces=true,
+    frame=single,
+    showspaces=false,
+    showstringspaces=false,
+    showtabs=false,
+    tabsize=2,
+    captionpos=b,
+    breaklines=false,
+    keywordstyle=\color[rgb]{0,0,1},
+    commentstyle=\color[rgb]{0.133,0.545,0.133}
+}
+
+% Urls & Hyperref
+\usepackage{url}
+\usepackage[pdfborder={0 0 0}, colorlinks=true, urlcolor=blue, citecolor=red, bookmarks=false]{hyperref}
+
+% Image and Table Formatting
+\usepackage{tabularx}
+\usepackage{caption}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{diagbox}
+%\usepackage{chngcntr} % Throws an "aready defined" error
+\usepackage{multirow}
+\usepackage{color, colortbl}
+
+% Tikz
+\usepackage{tikz}
+
+% Math
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{mathtools}
+\usepackage{bm}
+
+% Other
+\usepackage{lipsum}
+\usepackage{datetime}
