@@ -1,4 +1,4 @@
-# .gitignore file
+﻿# .gitignore file
 
 # Misc LaTeX filer att ignorera:
 **.aux
@@ -12,3 +12,6 @@
 # Filtrering av pdf-filer utanför Users, Bolaget eller Dokumentation/Arkiv:
 Dokumentation/**/*.pdf
 !Dokumentation/Arkiv/**/*.pdf
+
+# Filtrering av temp-filer
+**/~$*
