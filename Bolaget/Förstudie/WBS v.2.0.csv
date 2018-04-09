@@ -1,0 +1,37 @@
+ID,Namn,Beskrivning,Resurs (Person),Tidsåtgång,Total tid (Tidsåtgång x resurs)
+1,Designförslag,Standardisering,,,
+1.1,Hårdvarulayout,"Ta fram en generell lista, inte exakta produkter, över vad som behövs på varje site.",,,
+1.1.1,Routing,"Undersöka vad för typ av router/routrar som passar klienten, baserat på minimikraven",3,8,24
+1.1.2,Switching,"Undersöka vad för typ av switchar som passar klienten, baserat på minimikraven",3,8,24
+1.1.3,Wireless,"Undersöka vad för typ av trådlös utrustning som passar klienten, baserat på minimikraven",2,4,8
+1.1.4,Brandvägg,"Undersöka vad för typ av brandvägg som passar klienten, baserat på minimikraven",2,4,8
+1.1.5,Minimikrav,Undersök vad minimikravet för access och funktioner och hårdvara är.,3,8,24
+1.1.6,Säkerhet,Undersöka enklare fysiska säkerhetslösningar och sammanställa I en rekomendationslista,3,4,12
+1.2,Mjukvarulayout,"Ta fram en generell lista, inte exakta funktioner/tjänster som behövs på varje site",,,
+1.2.1,Funktioner/Tjänster,Undersök vilka tjänster och funktioner som klienten kommer att behöva på respektive site,3,5,15
+1.2.2,Säkerhet,Undersöka vilka säkerhetslösningar som passar in projektet,,,
+1.2.2.1,VPN,"Undersöka vilken typ av VPN som ska användas, och vilken typ av kryptering",1,2,2
+1.2.2.2,Port-sec,Undersöka vilken typ av port-sec som ska användas,1,2,2
+1.2.2.3,Admin access,"Undersöka hur adminaccess ska implementeras, varifrån, vem och hur.",1,2,2
+1.2.2.4,Loggning,"Undersöka loggningsmöjligheter, centralt alternativt lokalt på varje site. Vad ska loggas osv.",1,2,2
+1.2.2.5,App-kontroll,"Ta fram en lista över appar som behöver kontrolleras, blockas eller övervakas",2,3,6
+1.3,IP-design,"Skapa riktlinjer för hur nätverket ska sättas upp, rent logiskt",,,
+1.3.1,VLAN,"Skapa riktlinjer för hur VLAN ska planeras, sättas upp och hanteras när det kommer till bl.a. trafikisolering",2,4,8
+1.3.2,Subnetting,Ta fram riktlinjer för planering av subnät,3,5,15
+1.3.3,Addressmängd per site,Undersöka hur många privata respektive publika ip-adresser som behöver finnas på varje site,2,2,4
+1.4,Lista på vad som ska testas,"Definiera listan på saker som ska kollas, och generellt hur",3,4,12
+2,Mässa,Planera och genomföra mässan I slutet av kursen,,,
+2.1,Monter,Skapandet av montern som ska användas på mässan,,,
+2.1.1,Design,Designa monter som visar vad vi har gjort och kommit fram till,2,5,10
+2.1.2,Spons,Sponsring från netsecure?,1,0.5,0.5
+2.1.3,Frakt,"Frakt till utställningen, bil tillgänglig?",3,0.5,1.5
+2.1.4,Montering,Planera montering av monter på plats,3,1,3
+2.1.5,Skrot,Frakt från utställningen till soptunna,3,0.5,1.5
+2.2,Merch,Maila Johnny och fråga efter merch,1,0.5,0.5
+2.2.1,Flyers,Designa flyers med sammanfattningar av arbetet,2,2,4
+2.2.2,Netsecure merch,Fråga Johnny om det finns merch från NetSecure att tillgå,1,0.5,0.5
+2.2.3,Godis,Köpa godis?,1,0.5,0.5
+3,Rapport,Skriva rapport,,,
+3.1,Start av rapportskrivning,Börja skriva rapport,3,1,3
+3.2,Slutför rapport,Färdigställ rapport och skicka in,3,1,3
+,,,Totalt:,80,196
