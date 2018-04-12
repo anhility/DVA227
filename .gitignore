@@ -1,4 +1,4 @@
-# .gitignore file
+﻿# .gitignore file
 
 # Misc LaTeX filer att ignorera:
 **.aux
@@ -13,6 +13,12 @@
 Dokumentation/**/*.pdf
 !Dokumentation/Arkiv/**/*.pdf
 
+<<<<<<< HEAD
 # Temp filer att ignorera
 **/.~*
 **/~$*
+=======
+# Filtrering av temp-filer
+**/~$*
+**/.~*
+>>>>>>> a5e29e4a3ee920e05c103f7aa05fb8a6d9452ac5

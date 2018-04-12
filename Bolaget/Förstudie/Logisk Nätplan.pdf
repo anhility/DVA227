@@ -8,8 +8,13 @@
       /Keywords ()
       /Creator (yExport 1.5)
       /Producer (org.freehep.graphicsio.pdf.YPDFGraphics2D 1.5)
+<<<<<<< HEAD
       /CreationDate (D:20180409122439+02'00')
       /ModDate (D:20180409122439+02'00')
+=======
+      /CreationDate (D:20180409144646+02'00')
+      /ModDate (D:20180409144646+02'00')
+>>>>>>> a5e29e4a3ee920e05c103f7aa05fb8a6d9452ac5
       /Trapped /False
    >>
 endobj
