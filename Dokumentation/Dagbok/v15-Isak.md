@@ -26,21 +26,22 @@ Vad har gjorts:
 ## Tillfälle 3  
 **Datum:** 	12/4-18  
 **Typ:** 	Grupparbete  
-**Start:**	09:00  
-**Slut:**	11:00  
-**Arbetstid:**	2 timmar  
+**Start:**	09:30  
+**Slut:**	10:30  
+**Arbetstid:**	1 timme  
 
 Vad har gjorts:  
 - Gruppmöte
-- Start av rapport
+- Start av rapportmall
 
 ## Tillfälle 4  
 **Datum:** 	13/4-18  
 **Typ:** 	Grupparbete  
 **Start:**	10:00  
-**Slut:**	15:00  
-**Arbetstid:**	5 timmar  
+**Slut:**	17:00  
+**Arbetstid:**	7 timmar  
 
 Vad har gjorts:  
 - Progressrapport påbörjad
-- 
+- Minimikrav för hårdvara
+- Topologibild
