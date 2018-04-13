@@ -14,11 +14,22 @@ Vad har gjorts:
 - Gjort en riskanalys
 
 ## Tillfälle 2  
-**Datum:** 	13/4-18  
+**Datum:** 	11/4-18  
 **Typ:** 	Grupparbete  
-**Start:**	10:00  
+**Start:**	15:00  
 **Slut:**	16:00  
-**Arbetstid:**	6 timmar  
+**Arbetstid:**	1 timmar  
 
 Vad har gjorts:  
-- 
+- Skrivit protokoll för gruppmötet med Jocke och sara 12/4-2018
+
+## Tillfälle 3  
+**Datum:** 	12/4-18  
+**Typ:** 	Grupparbete  
+**Start:**	09:00  
+**Slut:**	11:00  
+**Arbetstid:**	2 timmar  
+
+Vad har gjorts:  
+- Gruppmöte
+- Start av rapport
