@@ -33,3 +33,14 @@ Vad har gjorts:
 Vad har gjorts:  
 - Gruppmöte
 - Start av rapport
+
+## Tillfälle 4  
+**Datum:** 	13/4-18  
+**Typ:** 	Grupparbete  
+**Start:**	10:00  
+**Slut:**	15:00  
+**Arbetstid:**	5 timmar  
+
+Vad har gjorts:  
+- Progressrapport påbörjad
+- 
