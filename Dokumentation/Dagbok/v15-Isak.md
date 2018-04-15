@@ -36,9 +36,9 @@ Vad har gjorts:
 ## Tillfälle 4  
 **Datum:** 	13/4-18  
 **Typ:** 	Grupparbete  
-**Start:**	11:00  
+**Start:**	11:30  
 **Slut:**	17:00  
-**Arbetstid:**	6 timmar  
+**Arbetstid:**	5~ timmar  
 
 Vad har gjorts:  
 - Progressrapport påbörjad
