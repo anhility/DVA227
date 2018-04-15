@@ -9,8 +9,7 @@
 
 Vad har gjorts:  
 - Börjat på aktivitetslistan
-- Bestämt tidsåtgång för varje arbetspaket
-- Lagt in tidsåtgång på arbetspaketen samt den kritiska linjen i den logiska nätplanen
+- Lagt in kritiska linjen i den logiska nätplanen
 - Gjort en riskanalys
 
 ## Tillfälle 2  
@@ -37,11 +36,11 @@ Vad har gjorts:
 ## Tillfälle 4  
 **Datum:** 	13/4-18  
 **Typ:** 	Grupparbete  
-**Start:**	10:00  
+**Start:**	11:00  
 **Slut:**	17:00  
-**Arbetstid:**	7 timmar  
+**Arbetstid:**	6 timmar  
 
 Vad har gjorts:  
 - Progressrapport påbörjad
-- Minimikrav för hårdvara
+- Minimikrav och hårdvara
 - Topologibild
