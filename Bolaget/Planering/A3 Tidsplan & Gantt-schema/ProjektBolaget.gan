@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Projekt Bolaget" company="" webLink="https://github.com/anhility/DVA227" view-date="2018-04-30" view-index="1" gantt-divider-location="637" resource-divider-location="300" version="2.8.6" locale="en_US">
+<?xml version="1.0" encoding="UTF-8"?><project name="Projekt Bolaget" company="" webLink="https://github.com/anhility/DVA227" view-date="2018-04-09" view-index="0" gantt-divider-location="637" resource-divider-location="300" version="2.8.6" locale="en_US">
     <description/>
     <view zooming-state="default:3" id="gantt-chart">
         <field id="tpc0" name="WBS ID" width="98" order="0"/>
@@ -8,8 +8,8 @@
         <timeline><![CDATA[1]]></timeline>
     </view>
     <view id="resource-table">
-        <field id="0" name="Name" width="199" order="0"/>
-        <field id="1" name="Default role" width="82" order="1"/>
+        <field id="0" name="Name" width="195" order="0"/>
+        <field id="1" name="Default role" width="86" order="1"/>
     </view>
     <!-- -->
     <calendars>
@@ -44,7 +44,7 @@
             <depend id="10" type="2" difference="0" hardness="Strong"/>
             <customproperty taskproperty-id="tpc0" value="3.1"/>
         </task>
-        <task id="4" name="Minimikrav" color="#8cb6ce" meeting="false" start="2018-04-13" duration="1" complete="0" thirdDate="2018-04-13" thirdDate-constraint="1" expand="true" cost-manual-value="24.0" cost-calculated="true">
+        <task id="4" name="Minimikrav" color="#8cb6ce" meeting="false" start="2018-04-13" duration="1" complete="75" thirdDate="2018-04-13" thirdDate-constraint="1" expand="true" cost-manual-value="24.0" cost-calculated="true">
             <depend id="38" type="2" difference="0" hardness="Strong"/>
             <depend id="39" type="2" difference="0" hardness="Strong"/>
             <customproperty taskproperty-id="tpc0" value="1.1.5"/>
