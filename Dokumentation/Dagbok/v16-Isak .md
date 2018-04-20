@@ -16,8 +16,10 @@ Vad har gjorts:
 **Datum:** 	20/4-18  
 **Typ:** 	Grupparbete  
 **Start:**	10:00  
-**Slut:**	16:00  
-**Arbetstid:**	6 timmar  
+**Slut:**	15:00  
+**Arbetstid:**	5 timmar  
 
 Vad har gjorts:  
-- 
+- Definierat funktioner och tjänster
+- Förenklat hårdvarulayout
+- Gruppmöte
