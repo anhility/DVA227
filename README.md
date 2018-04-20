@@ -13,27 +13,14 @@ Isak Söderström - [ism16002@student.mdh.se](mailto:ism16002@student.mdh.se)
 - Vecka 18-20 - Vilhelm
 
 ---
-## Nästa gruppmöte
-- 6/4-18
-
-## Tidigare gruppmöte
-- 18/2-18
-- 22/3-18
-- 29/3-18
-
----
-## Nästa projektledarmöte
-- 3/4-18
-
-## Tidigare projektledarmöten
-- 22/3-18 kl 10:30
+## Gruppmötesprotokoll
+- [28/2-18](https://github.com/anhility/DVA227/blob/master/Dokumentation/Arkiv/Gruppm%C3%B6ten/180228-Gruppm%C3%B6te-%5Bbeslut%5D.pdf)
+- [22/3-18](https://github.com/anhility/DVA227/blob/master/Dokumentation/Arkiv/Gruppm%C3%B6ten/180322-Gruppm%C3%B6te-%5Bbeslut%5D.pdf)
+- [29/3-18](https://github.com/anhility/DVA227/blob/master/Dokumentation/Arkiv/Gruppm%C3%B6ten/180329--Gruppm%C3%B6te.pdf)
+- [06/4-18](https://github.com/anhility/DVA227/blob/master/Dokumentation/Arkiv/Gruppm%C3%B6ten/180406-Gruppm%C3%B6te.pdf)
+- [12/4-18](https://github.com/anhility/DVA227/blob/master/Dokumentation/Arkiv/Gruppm%C3%B6ten/180412-Gruppm%C3%B6te.pdf)
 
 ---
-## Nästa grupparbete
-- 3/4-18 kl 13:00-17:00
-- 6/4-18 kl 09:00-16:00
-
-## Tidigare grupparbeten
-- 22/3-18 kl 09:00-16:00
-- 26/3-18 kl 09:00-15:00
-- 29/3-18 kl 09:00-12:00
+## Projektedarmötesprotkoll
+- [22/3-18](https://github.com/anhility/DVA227/blob/master/Dokumentation/Arkiv/Projektledarm%C3%B6ten/180322-Projektledarm%C3%B6te-1-%5Bbeslut%5D.pdf)
+- [03/4-18](https://github.com/anhility/DVA227/blob/master/Dokumentation/Arkiv/Projektledarm%C3%B6ten/180403-Projektledarm%C3%B6te-2-%5Buppf%C3%B6ljning%5D.pdf)
