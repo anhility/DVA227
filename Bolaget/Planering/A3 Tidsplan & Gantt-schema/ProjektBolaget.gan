@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Projekt Bolaget" company="" webLink="https://github.com/anhility/DVA227" view-date="2018-04-12" view-index="0" gantt-divider-location="637" resource-divider-location="300" version="2.8.6" locale="en_US">
+<?xml version="1.0" encoding="UTF-8"?><project name="Projekt Bolaget" company="" webLink="https://github.com/anhility/DVA227" view-date="2018-04-30" view-index="0" gantt-divider-location="637" resource-divider-location="300" version="2.8.6" locale="en_US">
     <description/>
     <view zooming-state="default:3" id="gantt-chart">
         <field id="tpc0" name="WBS ID" width="98" order="0"/>
@@ -40,7 +40,7 @@
             <depend id="1" type="2" difference="0" hardness="Strong"/>
             <depend id="4" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="1" name="Start av Rapport" color="#8cb6ce" meeting="false" start="2018-04-13" duration="31" complete="0" thirdDate="2018-04-13" thirdDate-constraint="1" priority="4" expand="true">
+        <task id="1" name="Start av Rapport" color="#8cb6ce" meeting="false" start="2018-04-13" duration="31" complete="100" thirdDate="2018-04-13" thirdDate-constraint="1" priority="4" expand="true">
             <depend id="10" type="2" difference="0" hardness="Strong"/>
             <customproperty taskproperty-id="tpc0" value="3.1"/>
         </task>
@@ -78,7 +78,7 @@
             <depend id="62" type="2" difference="0" hardness="Strong"/>
             <customproperty taskproperty-id="tpc0" value="1.2.1"/>
         </task>
-        <task id="58" name="VPN" color="#8cb6ce" meeting="false" start="2018-04-27" duration="1" complete="0" thirdDate="2018-04-27" thirdDate-constraint="1" expand="true">
+        <task id="58" name="VPN" color="#8cb6ce" meeting="false" start="2018-04-27" duration="1" complete="100" thirdDate="2018-04-27" thirdDate-constraint="1" expand="true">
             <depend id="73" type="2" difference="0" hardness="Strong"/>
             <customproperty taskproperty-id="tpc0" value="1.2.2.1"/>
         </task>
@@ -103,15 +103,15 @@
             <depend id="78" type="2" difference="0" hardness="Strong"/>
             <depend id="79" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="79" name="VLAN" color="#8cb6ce" meeting="false" start="2018-04-30" duration="1" complete="0" thirdDate="2018-04-30" thirdDate-constraint="1" expand="true">
+        <task id="79" name="VLAN" color="#8cb6ce" meeting="false" start="2018-04-30" duration="1" complete="100" thirdDate="2018-04-30" thirdDate-constraint="1" expand="true">
             <depend id="86" type="2" difference="0" hardness="Strong"/>
             <customproperty taskproperty-id="tpc0" value="1.3.1"/>
         </task>
-        <task id="77" name="Addressmängd per Site" color="#8cb6ce" meeting="false" start="2018-04-30" duration="1" complete="0" thirdDate="2018-04-30" thirdDate-constraint="1" expand="true">
+        <task id="77" name="Addressmängd per Site" color="#8cb6ce" meeting="false" start="2018-04-30" duration="1" complete="100" thirdDate="2018-04-30" thirdDate-constraint="1" expand="true">
             <depend id="86" type="2" difference="0" hardness="Strong"/>
             <customproperty taskproperty-id="tpc0" value="1.3.2"/>
         </task>
-        <task id="78" name="Subnetting" color="#8cb6ce" meeting="false" start="2018-05-04" duration="1" complete="0" thirdDate="2018-05-04" thirdDate-constraint="1" expand="true">
+        <task id="78" name="Subnetting" color="#8cb6ce" meeting="false" start="2018-05-04" duration="1" complete="100" thirdDate="2018-05-04" thirdDate-constraint="1" expand="true">
             <depend id="86" type="2" difference="0" hardness="Strong"/>
             <customproperty taskproperty-id="tpc0" value="1.3.3"/>
         </task>
@@ -121,18 +121,18 @@
         <task id="89" name="Mjukvarulayout Klar" color="#8cb6ce" meeting="true" start="2018-05-05" duration="0" complete="0" thirdDate="2018-03-18" thirdDate-constraint="0" expand="true">
             <depend id="92" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="92" name="Säkerhet" color="#8cb6ce" meeting="false" start="2018-05-07" duration="1" complete="0" thirdDate="2018-05-07" thirdDate-constraint="1" expand="true">
+        <task id="92" name="Säkerhet" color="#8cb6ce" meeting="false" start="2018-05-07" duration="1" complete="100" thirdDate="2018-05-07" thirdDate-constraint="1" expand="true">
             <depend id="105" type="2" difference="0" hardness="Strong"/>
             <customproperty taskproperty-id="tpc0" value="1.1.6"/>
         </task>
         <task id="105" name="Hårdvarulayout Klar" color="#8cb6ce" meeting="true" start="2018-05-08" duration="0" complete="0" thirdDate="2018-03-21" thirdDate-constraint="0" expand="true">
             <depend id="93" type="3" difference="0" hardness="Strong"/>
         </task>
-        <task id="93" name="Checklista för test av siter" color="#8cb6ce" meeting="false" start="2018-05-07" duration="1" complete="0" thirdDate="2018-05-08" thirdDate-constraint="0" expand="true">
+        <task id="93" name="Checklista för test av siter" color="#8cb6ce" meeting="false" start="2018-05-07" duration="1" complete="100" thirdDate="2018-05-07" thirdDate-constraint="0" expand="true">
             <depend id="10" type="2" difference="0" hardness="Strong"/>
             <customproperty taskproperty-id="tpc0" value="1.4"/>
         </task>
-        <task id="10" name="Slutför Rapport" color="#8cb6ce" meeting="false" start="2018-05-14" duration="8" complete="0" thirdDate="2018-05-14" thirdDate-constraint="1" priority="4" expand="true">
+        <task id="10" name="Slutför Rapport" color="#8cb6ce" meeting="false" start="2018-05-14" duration="8" complete="100" thirdDate="2018-05-14" thirdDate-constraint="1" priority="4" expand="true">
             <depend id="20" type="2" difference="0" hardness="Strong"/>
             <depend id="127" type="1" difference="0" hardness="Strong"/>
             <customproperty taskproperty-id="tpc0" value="3.2"/>
@@ -148,7 +148,7 @@
             <depend id="122" type="2" difference="0" hardness="Strong"/>
             <depend id="123" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="121" name="Design" color="#8cb6ce" meeting="false" start="2018-05-14" duration="1" complete="0" thirdDate="2018-05-14" thirdDate-constraint="0" expand="true">
+        <task id="121" name="Design" color="#8cb6ce" meeting="false" start="2018-05-14" duration="1" complete="100" thirdDate="2018-05-14" thirdDate-constraint="0" expand="true">
             <depend id="141" type="2" difference="0" hardness="Strong"/>
             <customproperty taskproperty-id="tpc0" value="2.1.1"/>
         </task>
