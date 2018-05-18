@@ -1,0 +1,19 @@
+Brandvägg 
+FortiGate har en inbyggd brandvägg med IPS och threat protection. Med hjälp av FortiGuard kan varje FortiGate snabbt uppdatera dess signaturlistor för kända virus, trojaner och maskar att blockera. FortiGuard har också ett inbyggt App Control system för eventuella begränsningar av förbjudna program eller tjänster.
+FortiGate 60E-PoE modellen kan med alla tjänster aktiverade skyffla 200 Mbps av data, väl tillräckligt för den satta minimumkravet.
+
+%https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/FortiGate_FortiWiFi_60E_Series.pdf
+
+FortiClient 
+FortiClient är Fortinets egna program för end-point skydd, dvs ett antivirus program för klienter. FortiClient använder FortiGuard för att enkelt kunna uppdatera dess signaturlista.
+Dock är det upp till användarna att säkra sin utrustning men det är värt att rekommendera att antivirus skydd.
+
+%https://www.forticlient.com/
+
+Radius/Diameter 
+FortiGates kan enkelt konfigueras att klienter ska autentisera med vald metod (MS-CHAP, CHAP, PAP) till en Radius eller Diameter server.
+Helst bör ett autentiserat certifikat användas för att säkerställa att Radius/Diameter servern inte är fejkad.
+
+NAT
+NAT används inom hela nätverket då kanske endast ett eller ett fåtal publika IP-adresser finns tillgängliga och alla enheter samt klienter använder privata adresser. Dock behöver siternas routrar inte behandla NAT då enligt vår förslagna design konverteras all NAT trafik hos core-siterna innan datan skickas ut på publikt internet.
+

@@ -28,10 +28,8 @@
 
 \def\tCourseName{DVA227 - Projekt i Nätverksteknik}
 \def\tTitleOne{Projekt Bolaget}
-\def\tTitleTwo{Mötesprotokoll}
-
-\def\tTitleThree{Gruppmöte - 20/4-18 15:15}
-%\def\tTitleThree{Projektledarmöte}
+\def\tTitleTwo{Progressrapport}
+\def\tTitleThree{Vecka 17}   % <-- Set to {} to hide
 
 %% Author info
 \def\tAuthorTitle{Grupp 4}     % <-- Set to {} to hide
@@ -58,17 +56,17 @@
 \def\tTeacherTwoLocation{\tSchoolName, \tSchoolLocation}
 
 %% Misc
-\def\tDateDocMade{28 mars 2018}     % Use \today or set a date manually
+\def\tDateDocMade{9 april 2018}     % Use \today or set a date manually
 
 \def\tDates{\begin{tabular}{rl}
-        Skapad:     & \ 20 april 2018\\
+        Skapad:     & \ 29 april 2018 \\
         Uppdaterad: & \today\,\,\currenttime
     \end{tabular}
 }
 
 %=============== Document Headers
 \def\mLHeader{\tSchoolName}
-\def\mRHeader{\tTitleThree}
+\def\mRHeader{\tTitleTwo\ - \tTitleThree}
 %============================== End of macros
 
 % Page style
@@ -128,7 +126,7 @@
     \pagenumbering{arabic}
 % ========== Add your texts here
 
-    \input{text/protokoll}
+    \input{text/progress}
 
 % ============================= References ============================
 % Comment out these lines if you don't need a list of references.

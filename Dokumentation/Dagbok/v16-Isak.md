@@ -3,9 +3,9 @@
 ## Tillfälle 1  
 **Datum:** 	16/4-18  
 **Typ:** 	Grupparbete  
-**Start:**	10:00  
+**Start:**	10:30  
 **Slut:**	16:00  
-**Arbetstid:** 6 timmar  
+**Arbetstid:** 5 timmar  
 
 Vad har gjorts:  
 - Skrivit ner vad vi kom fram till för hårdvarulayout i rapporten
@@ -22,4 +22,4 @@ Vad har gjorts:
 Vad har gjorts:  
 - Definierat funktioner och tjänster
 - Förenklat hårdvarulayout
-- Gruppmöte
+
