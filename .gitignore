@@ -14,6 +14,7 @@
 
 # Filtrering av pdf-filer utanför Users, Bolaget eller Dokumentation/Arkiv:
 Dokumentation/**/*.pdf
+!Dokumentation/LaTeX-filer/**/*.pdf
 !Dokumentation/Arkiv/**/*.pdf
 
 # Filtrering av temp-filer
