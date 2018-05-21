@@ -1,0 +1,83 @@
+\section{Test}
+Testdelen av denna rapport är mer utav av checklista för uppsättning av nya siter, med punkter för vad som ska göras innan miljön sätts upp och vad man bör undersöka för att se till att enheterna fungerar som de ska.
+
+\subsection{Hårdvara}
+Här nedan presenteras sådant som är viktigt att tänka på inför driftsättningen av hårdvaran på en ny site. \\
+\\
+\textbf{Routing \& Switching}
+\begin{itemize}[noitemsep]
+    \item Är enheterna inkopplade på ett korrekt sätt?
+    \item Starta igång enheten och sätt i USB-minnet med start konfigurationen så att enheten kan ta emot resterande konfiguration från core.
+    \item Ta emot konfigurationen från core och driftsätt nätverket.
+    \item Kan enheterna nå core?
+    \item Kan enheterna nå varandra i det lokala nätverket?
+    \item Aktivera alla tjänster.
+    \item Deaktivera alla oanvända portar.
+    \item Plugga alla oanvända portar.
+    \item Låsa använda portar med RJ45-lås.
+    \item Alla enheter ska vara inmonterade i rackskåp som ska låsas.
+\end{itemize}
+
+\noindent \textbf{Wireless}
+\begin{itemize}[noitemsep]
+    \item Montera Accesspunkterna.
+    \item Koppla till routern och lås kontakten.
+    \item Gör enheten redo för att ta emot konfiguration från core.
+\end{itemize}
+
+\subsection{Funktioner/tjänster}
+Här presenteras en checklista för de tjänster som ska startas vid driftsättning av ny site, och vad som är viktigt att funktionstesta under själva driftsättningen. \\
+\\
+\textbf{IPsec}
+\begin{itemize}[noitemsep]
+    \item Sätt upp både VPN och GRE-tunnel om möjligheten ges.
+    \item Kontrollera att man kan pinga från site till core på båda anslutningarna om båda finns.
+    \item Använd Wireshark eller liknande för att undersöka att paket krypteras korrekt.
+\end{itemize}
+
+\noindent \textbf{DNS}
+\begin{itemize}[noitemsep]
+    \item Pinga DNS-servern på core för att se att den är online.
+    \item Se till att enheterna kan ta sig till alla backup-DNS:er inklusive den utanför core.
+\end{itemize}
+
+\noindent \textbf{DHCP}
+\begin{itemize}[noitemsep]
+\item Kolla att DHCP-utdelning fungerar.
+\item Är IP-adresserna som delas ut korrekta?
+\end{itemize}
+
+\noindent \textbf{Firewall}
+\begin{itemize}[noitemsep]
+    \item Starta brandväggen.
+    \item Uppdatera databasen med signaturer och se till att den är aktuell.
+    \item Testa att nå ut på internet med program som inte ska nå ut och se till att de blir blockerade korrekt. (ex. Facebook-chatt fungerar, men inte video eller upload/download.)
+\end{itemize}
+
+
+\noindent \textbf{Loggning}
+\begin{itemize}[noitemsep]
+    \item Fungerar loggningen och skickar den till core.
+    \item Om anslutningen till core går ner sparas loggningen lokalt tills den kan skickas igen till core.
+    \item Loggas det som ska loggas?
+\end{itemize}
+
+
+\noindent \textbf{RADIUS}
+\begin{itemize}[noitemsep]
+    \item Se till att allt som använder RADIUS som autentiseringsmetod fungerar ex. 802.1x, SSH.
+\end{itemize}
+
+\noindent \textbf{NTP}
+\begin{itemize}[noitemsep]
+    \item Se till att NTP-servern på core är synkar mot en genuin tidskälla.
+    \item Kontrollera att alla enheter har samma tid och är synkroniserade med NTP-servern på core.
+\end{itemize}
+
+\noindent \textbf{VLAN}
+\begin{itemize}[noitemsep]
+    \item Är VLAN-en korrekt uppsatta?
+    \item Se till att de VLAN som ska kunna kommunicera kan det och de VLAN som inte ska kunna kommunicera inte kan göra det.
+    \item Kolla så att enheter är på rätt VLAN.
+\end{itemize}
+

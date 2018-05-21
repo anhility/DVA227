@@ -8,6 +8,9 @@
 **.log
 **.run.xml
 **.synctex.gz
+**.lot
+**.lof
+**.toc
 
 # Filtrering av pdf-filer utanför Users, Bolaget eller Dokumentation/Arkiv:
 Dokumentation/**/*.pdf

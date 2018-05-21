@@ -1,0 +1,22 @@
+\section{IP-Design}
+    Tanken med IP-designen är att använda privata adresser över hela nätverket. Detta på grund av att all trafik från siterna kommer gå över en VPN-länk till Core och därefter ut på nätverket. Detta innebär att hela företagets nät blir ett virtualiserat privat nätverk. För att adressering ska vara så enkel som möjligt blir varje site tilldelad ett löpnummer som representerar den andra oktetten i IP-adressen (ex. 10.\textbf{55}.0.0) vilket då är IP-adressen till site nummer 55. Den tredje oktetten i IP-adressen representerar de olika VLAN som finns på siten (ex. 10.55.\textbf{20}.0) som är IP-adressen för site nummer 55 och VLAN 20. På det här sättet finns det även utrymme för expansion av fler siter då de enkelt kan läggas till utan att IP-planen behöver göras om. Det är också enkelt att avveckla siter och då frigöra det IP-spannet för användning till en annan site.
+
+\subsection{VLAN}
+    Det ska finnas minst 5 VLAN på varje site, en för varje typ av användare/enhet som finns på siten. Dessa VLAN är MGMT, User, Office Equipment, Wi-Fi och Guest. Om det finns fler typer kan flera VLAN läggas till. De olika VLAN:en ska inte kunna kommunicera direkt med varandra av säkerhetsskäl med undantag från till exempel User och Office Equipment då det kan vara en användare på User VLAN:et som vill kunna printa ut något. Vi ser ingen anledning till att en Guest användare ska kunna kommunicera med User- eller Office Equipment-VLAN:en. Exempel på IP-adresserna för VLAN:en kan ses i Tabell \ref{table:ip-plan}.
+
+    \begin{table}[htb]
+        \centering
+        \caption{Exempel på delegering av VLAN}
+        \begin{tabular}{|l|l|}
+            \hline
+            MGMT 				& 10.0.10.0/24 \\ \hline
+            User 				& 10.0.20.0/24 \\ \hline
+            Office Equipment 	& 10.0.30.0/24 \\ \hline
+            Guest 				& 10.0.40.0/24 \\ \hline
+            Wi-Fi 				& 10.0.50.0/24 \\ \hline
+        \end{tabular}
+        \label{table:ip-plan}
+    \end{table}
+
+\subsection{Subnetting}
+    Eftersom varje VLAN får ett eget spann på 253 användaradresser behöver ytterligare subnetting inte genomföras. Alla siter och enheter har tillräckligt med adresser för att hålla subnettingen enkel och lätt att förstå.
